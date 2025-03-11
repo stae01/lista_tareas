@@ -12,3 +12,21 @@ body{
     padding: 0;
     
 }
+
+h1{
+    color: rgb(203, 199, 194);
+}
+
+
+.container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#tarea {
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
