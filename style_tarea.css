@@ -1,0 +1,14 @@
+.tachado{
+    text-decoration: line-through;
+}
+
+body{
+
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(59, 58, 57);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    
+}
