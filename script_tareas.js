@@ -41,9 +41,9 @@ function agregarTarea(){
         }
 
         //TACHA el elemento
-        li.onclick = function(){
+        /**li.onclick = function(){
             li.classList.toggle("tachado");
-        }
+        }**/
 
         lista.appendChild(li);
         campo.value = "";
