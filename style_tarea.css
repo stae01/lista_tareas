@@ -42,3 +42,34 @@ button.btn-danger {
     cursor: pointer;
     border-radius: 4px;
 }
+
+
+#lista_tareas li {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+
+#lista_tareas {
+
+    padding: 0;
+    margin-top: 20px;
+}
+
+#agregar {
+    padding: 8px 15px;
+    background-color: #4CAF50;       
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#agregar:hover {
+    background-color: #45a049;      
+}
